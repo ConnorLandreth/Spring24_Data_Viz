@@ -1,0 +1,13 @@
+name: Spring24_Data_Viz
+title: Spring24_Data_Viz
+username: clandreth
+account: clandreth
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11867319
+bundleId: 8542712
+url: https://clandreth.shinyapps.io/Spring24_Data_Viz/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .gitattributes|.RData|FlexDash_Landreth_Final.Rmd|Landreth_690v_Final.html|Landreth_Final_Dashboard_690V.Rmd
